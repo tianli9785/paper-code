@@ -1,2 +1,2 @@
 # paper-code
-Data and codes for An organ-specific multi-temporal UAV framework for robust estimation of maize phosphorus uptake across sites and scales
+Data and codes for A phenology-aware organ-specific multi-temporal UAV framework for maize shoot phosphorus uptake estimation and field-scale mapping
